@@ -7,7 +7,6 @@ I’ve refined the ability to filter through the noise to find the critical 'gli
 While I’m conducting welfare calls, managing complex schedules, or monitoring high-traffic retail environments, I’m constantly looking for ways to streamline operational efficiency through data. I’m currently bridging the gap further by integrating Generative AI and Cybersecurity frameworks into my daily workflow. Though personally, I still find that the most complex logic puzzles are solved through a mix of high-tech surveillance and old-school human intuition—a skill set I’ve sharpened through years of strategic board gaming and frontline hospitality leadership.
 
 ---
----
 
 ## 🔍 The Pivot: Data to Security
 After over a decade at Worldpanel and the U.S. Census Bureau, I’m now applying a "zero-error" mindset to the Private Security Industry. Currently, I'm:
@@ -16,3 +15,17 @@ After over a decade at Worldpanel and the U.S. Census Bureau, I’m now applying
 * 🛡️ **Converged Security:** Blending SIA Door Supervisor/CCTV logic with digital threat detection.
 
 ---
+
+## 🛠️ Technical Toolkit
+* **Languages & Data:** SQL (Oracle), Python, Data Analytics, Complex Reporting.
+* **Security:** Risk Assessment, Behavioral Detection, Incident Management, Mental Health First Aid.
+* **Strategic:** Strategy-led problem solving (refined by a lifelong obsession with complex board games).
+* **Cloud:** Gen AI enabled.
+
+---
+---
+
+### [Home](README.md)
+### [Projects](projects.md)
+### [Future Plans](plans.md)
+### [Contact](contact.md)

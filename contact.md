@@ -4,3 +4,9 @@
 * 📧 <wes.reis6035@altmail.kr>
 
 ---
+---
+
+### [Home](README.md)
+### [About Me](about_me.md)
+### [Projects](projects.md)
+### [Future Plans](plans.md)

@@ -5,3 +5,13 @@ I’m a **Data Analyst turned Security Professional**, currently bridging 12 yea
 This page will host my practical porfolio, links to projects to follow.
 
 *"The best way to secure the future is to analyze the present."* 😜
+
+---
+---
+
+### [About Me](about_me.md)
+### [Projects](projects.md)
+### [Future Plans](plans.md)
+### [Contact](contact.md)
+
+---

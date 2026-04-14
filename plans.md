@@ -14,3 +14,9 @@ My plans for what I'm learning, and how I'm spending my free time.
 1. **Community:** Expanding my professional and board gaming network in Barnsley/Wombwell.
 
 ---
+---
+
+### [Home](README.md)
+### [About Me](about_me.md)
+### [Projects](projects.md)
+### [Contact](contact.md)
